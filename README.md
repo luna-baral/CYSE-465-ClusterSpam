@@ -6,4 +6,4 @@ We have tried packet flooding in the Wireshark to orchestrate the attack, howeve
 
 I worked on the running the remote desktop with Melanie Brown to run the commands and the wireshark.
 
-studied the techniques used for the attack, researched on the tcp packet flooding and how to implement it, brainstormed with the team on the best ways to carry out the attack, attended session to orchestrate the attacks, simulation operator for the practice stage.
+studied the techniques used for the attack, researched on the tcp packet flooding and how to implement it, brainstormed with the team on the best ways to carry out the attack, attended session to orchestrate the attacks, simulation operator for the practice stage.Worked on the strength and weakness/countermeasure of the attack.
