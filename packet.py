@@ -1,6 +1,5 @@
 #This is the first packet we modified to orchestrate the packet flooding attack, which did not work.
-#this is the second script that we modifed in order to orchestrate the packet flooding in the  github, which did go through as we were able to 
-# send out the 
+#we got the original python script from https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_TCP)
